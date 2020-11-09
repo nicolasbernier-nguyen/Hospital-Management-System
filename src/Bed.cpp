@@ -32,3 +32,4 @@ void Bed::print() const {
 	else
 		cout << "Bed #" << bedNumber << " is vacant." << endl;
 }
+
